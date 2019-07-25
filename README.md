@@ -57,10 +57,11 @@ Node와 마찬가지로 Google Map의 [Direction API](https://developers.google.
 ### 기능
 * 숙소 지정
 * 하루 안에 방문하고자 하는 포인트 선택 (추천 시스템이 들어가면 이 과정도 대체될 수 있을듯합니다)
-  * 스크린샷
+  * <img src="https://raw.githubusercontent.com/DevSusu/life-is-optimization/master/research/tripple-ui-selecting.jpeg" width="300px"/>
 * 일정을 시작할 시간 선택
 * 생성된 일정을 화면 우측에서는 지도로, 좌측에서는 순서로 보여주려 합니다
   * [https://triple.guide/intro/](https://triple.guide/intro/)와 비슷한 화면이 되지 않을까 합니다.
+  * <img src="https://raw.githubusercontent.com/DevSusu/life-is-optimization/master/research/tripple-ui.jpg" width="300px"/>
 * 생성된 일정을 Drag&Drop으로 순서 변경
   * 한 장소의 체류시간 조정
 * 일정 삭제
