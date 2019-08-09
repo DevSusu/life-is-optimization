@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Life is, Optimization</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/lio.css') }}">
+</head>
+
+<body>
+
+<div class="lio-cover">
+
+  {% block content %}
+  {% endblock %}
+
+</div>
+
+</body>
+</html>
